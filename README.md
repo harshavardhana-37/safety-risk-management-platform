@@ -50,6 +50,13 @@ OPEN → ASSIGNED → IN PROGRESS → RESOLVED → APPROVED → CLOSED
 ```
 
 ---
+# 📌 Issue Tracking
+
+Users can raise a complaint/issue through the platform and track its progress using the generated tracking ID.
+
+The issue status is updated through the workflow stages:
+
+OPEN → ASSIGNED → IN PROGRESS → RESOLVED → APPROVED → CLOSED
 
 # ⚙️ Tech Stack
 
